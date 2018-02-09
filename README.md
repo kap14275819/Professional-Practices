@@ -34,10 +34,18 @@
 #### Create opportunities to evaluate the agreements and their implementation.
 
 ## CPD
-#### CPD stands for Continuing Professional Development. It refers to the process of tracking and documenting the skills, knowledge and experience that you gain both formally and informally as you work, beyond any initial training. It's a record of what you experience, learn and then apply. The term is generally used to mean a physical folder or portfolio documenting your development as a professional. 
+#### CPD stands for Continuing Professional Development. It refers to the process of tracking and documenting the skills, knowledge and experience that you gain both formally and informally as you work, beyond any initial training. It's a record of what you experience, learn and then apply. The term is generally used to mean a physical folder or portfolio documenting your development as a professional.
 
 ## Importance of CPD
 #### CPD is one of the most important terms for a professional, being able to keep up to date on what the newest developments with the field of work means that someone can keep being good at their job, because of the world always developing, professionals must also develop around it. If someone doesn't keep up to date then it will be difficult for that person to keep up with their job, as companies are constantly looking to improve it means that the employees will also have to look at improving with it to stay at that company. Without it companies would lose a lot of their profit having to constantly hire new people, this would mean spending more money on training new staff rather than improving the company needs. This is why CPD is so important to companies and individuals, as it keeps people and companies from becoming outdated.
+
+## Effective CPD
+#### Whichever form your CPD takes, evidence shows that the most effective CPD is that which is:
+#### • Personalised – ie built on your identified needs and requirements rather than a ‘one size fits all’ approach.
+#### • Relevant – relates to your teaching theory and/or subject specialism and the needs of your learners.
+#### • Sustained – New skills and ideas need time to take hold; experimentation and refinement is the best way to embed new ideas into your classroom practice.
+#### • Supported – by coaching or mentoring from experienced colleagues, either from within or from outside your school.
+#### • Collaborative – while teaching could be seen as a solitary profession, collaboration with your fellow teachers and colleagues has been identified as one of the most relevant features required for teacher learning.
 
 ## Motivational Theories 
 ### Maslow's Hierarchy of Needs:

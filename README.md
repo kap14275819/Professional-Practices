@@ -62,6 +62,7 @@ Year	Goal	Skills to Develop	Mile Stone
 3	Attend university in order to complete my top up year to achieve a full degree in video game production	At university I will be developing my ability to work under pressure and and be self motivated as the course will only last 9 months	Kept in touch with professional contacts gained last year through my real world experience
 5	Be epmloyed by a company in the video game industry (possibly using the contacts I have made during my education)	While employed I will be practicing CPD and continue to develop as a professional	Obtain more business contacts through my new company in order to keep as many future possibilities open as I can
 10	Work my way up to a senior position in the company and oversee project development by leading a team	Once in this position I will be developing my leadership skills by leading teams to complete projects successfully	Successfully lead a project to completion and to the highest standard possible
+
 | Year | Goal | Skills to Develop | Milestone |
 | ---- | ---- | ----------------- | --------- |
 | 2 | Content Cell  | Content Cell  | Content Cell  |

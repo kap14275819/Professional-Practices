@@ -63,6 +63,6 @@ Year	Goal	Skills to Develop	Mile Stone
 5	Be epmloyed by a company in the video game industry (possibly using the contacts I have made during my education)	While employed I will be practicing CPD and continue to develop as a professional	Obtain more business contacts through my new company in order to keep as many future possibilities open as I can
 10	Work my way up to a senior position in the company and oversee project development by leading a team	Once in this position I will be developing my leadership skills by leading teams to complete projects successfully	Successfully lead a project to completion and to the highest standard possible
 | Year | Goal |Skills to Develop|Milestone|
-|1 | ------------- |
-|2 | Content Cell  |
-|3 | Content Cell  |
+| ------------- | ------------- |------------- |------------- |
+|2 | Content Cell  | Content Cell  | Content Cell  |
+|3 | Content Cell  | Content Cell  | Content Cell  |

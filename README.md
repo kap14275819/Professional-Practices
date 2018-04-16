@@ -1,8 +1,5 @@
 # Professional-Practices
 
-
-# PENIS
-
 ## Problem-solving techniques
 #### A problem-solving technique is the process of working through details of a problem to reach a solution. Problem solving may include mathematical or systematic operations and can be a measurement of an individual's critical thinking skills.
 

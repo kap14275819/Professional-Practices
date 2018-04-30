@@ -12,7 +12,7 @@
 ### 2. Understand everyone's interests:
 #### Interests are the needs that you want satisfied by any given solution.
 #### The best solution is the one that satisfies everyone's interests.
-#### This is the time for active listening. Put down your differences for awhile and listen to each other with the intention to understand.
+#### This is the time for active listening. Put down your differences for a while and listen to each other with the intention to understand.
 
 ### 3. List the possible solutions:
 #### This is the time to do some brainstorming. There may be lots of room for creativity.
@@ -41,7 +41,7 @@
 
 ## Effective CPD
 #### Whichever form your CPD takes, evidence shows that the most effective CPD is that which is:
-#### • Personalised – ie built on your identified needs and requirements rather than a ‘one size fits all’ approach.
+#### • Personalised – i.e. built on your identified needs and requirements rather than a ‘one size fits all’ approach.
 #### • Relevant – relates to your teaching theory and/or subject specialism and the needs of your learners.
 #### • Sustained – New skills and ideas need time to take hold; experimentation and refinement is the best way to embed new ideas into your classroom practice.
 #### • Supported – by coaching or mentoring from experienced colleagues, either from within or from outside your school.
@@ -49,10 +49,10 @@
 
 ## Motivational Theories 
 ### Maslow's Hierarchy of Needs:
-#### This is the theory that people will have certain priorities based on what level they want to work, put down to basic survival the analogy is if someone is stranded in the forest, people will first aim for basic survival, however once people have had basic survival close to mastered, they will look to improve on their condition with shelter or simialar things. This is the same in the workplace and people that have recently joined a company will be looking at a basic survival on doing tasks whereas others who have worked for a longer period of time will want to achieve the next level, therefore giving them more complex jobs might prove useful.
+#### This is the theory that people will have certain priorities based on what level they want to work, put down to basic survival the analogy is if someone is stranded in the forest, people will first aim for basic survival, however once people have had basic survival close to mastered, they will look to improve on their condition with shelter or similar things. This is the same in the workplace and people that have recently joined a company will be looking at a basic survival on doing tasks whereas others who have worked for a longer period of time will want to achieve the next level, therefore giving them more complex jobs might prove useful.
 
 ### Herzberg's Two-Factor Model:
-#### This is the theory that there is either satisfaction or dissatisfaction within a work enviroment, with satisfaction being within achievement or forms of advancement within the workplace that could include salary rise or more important roles. However the dissatisfaction can be included within work conditions, salary and also relationships with peers. According to the theory, these factors must be managed effectivley in order to motivate the employees correctly. It is the employers job to manage these factors if they want the business to be successful.
+#### This is the theory that there is either satisfaction or dissatisfaction within a work environment, with satisfaction being within achievement or forms of advancement within the workplace that could include salary rise or more important roles. However, the dissatisfaction can be included within work conditions, salary and also relationships with peers. According to the theory, these factors must be managed effectively in order to motivate the employees correctly. It is the employers job to manage these factors if they want the business to be successful.
 
 ## Future Development Plan
 #### This plan will detail my plan for the next 10 years and will explain what my goal is for each year and what milestones I will have to complete in order to keep on track to achieving my goal. It also outlines what skill I will need to or will be developing during this time frame.
@@ -60,8 +60,9 @@
 
 | Year | Goal | Skills to Develop | Milestone |
 | ---- | ---- | ----------------- | --------- |
-| 1 | Complete the first year of my HND in Video Game Design and Production with at least a Merit grade.  | To achieve this I will have to work on my time management skills so that i may have all my college projects before the deadline and to have them completed in the best possible way. | Achieve all of the Pass criteria for the first year and then immediately start doing the critera for Merit and Destinctions. |
-| 2 | Complete the second year of my HND in Video Game Design and Production with at least a Merit grade  |  To achieve this I will also  work on my time management skills so that i may have all my college projects before the deadline and to have them completed in the best possible way. | Successfully achieve all of the Pass criteria for the second year and then immediately start doing the critera for Merit and Destinctions. Additionally this year i will start deciding on another course that will be a degree related to this current course |
-| 3 | Attend the university which i have chosen in order to complete my top year to have a full degree in Video Games Design and Production | At university i will be developing my skills and to try to work well under pressure but also to be self motivated as the course will only last 9 months | Make sure that i keep in touch with some of the professional contacts gained last year through my real world experience |
-| 5 | Already having a degree and be employed by a company that is related to the video game industry (possibly use some of the contacts that i have made during my education) | While employed I will be practicing CPD and continue to develop with the company as a professional | Obtain more business contacts through my new company in order to keep as many future possibilities open as I can |
+| 1 | Complete the first year of my HND in Video Game Design and Production with at least a Merit grade.  | To achieve this I will have to work on my time management skills so that I may have all my college projects before the deadline and to have them completed in the best possible way. | Achieve all of the Pass criteria for the first year and then immediately start doing the criteria for Merit and Distinctions. |
+| 2 | Complete the second year of my HND in Video Game Design and Production with at least a Merit grade | To achieve this I will also work on my time management skills so that I may have all my college projects before the deadline and to have them completed in the best possible way. | Successfully achieve all of the Pass criteria for the second year and then immediately start doing the criteria for Merit and Distinctions. Additionally, this year I will start deciding on another course that will be a degree related to this current course |
+| 3 | Attend the university which I have chosen in order to complete my top year to have a full degree in Video Games Design and Production | At university I will be developing my skills and to try to work well under pressure but also to be self-motivated as the course will only last 9 months | Make sure that I keep in touch with some of the professional contacts gained last year through my real world experience |
+| 5 | Already having a degree and be employed by a company that is related to the video game industry (possibly use some of the contacts that I have made during my education) | While employed I will be practicing CPD and continue to develop with the company as a professional | Obtain more business contacts through my new company in order to keep as many future possibilities open as I can |
 | 10 | Work my way up to a senior position in the company and oversee project development by leading a team or have a start-up company for a new game | Once in this position I will be developing my leadership skills by leading teams to complete projects successfully | Successfully lead a project to completion and to the highest standard possible |
+
